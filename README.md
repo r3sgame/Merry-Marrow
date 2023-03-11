@@ -13,3 +13,9 @@ Hi! Merry Marrow is a deep-learning project created for TJHSST's 2023 Bioinforma
 
 Enjoy!
 (If you would like to analyze the dataset or try out some sample values, visit the Kaggle dataset: https://www.kaggle.com/datasets/adamgudys/bone-marrow-transplant-children)
+
+## Contributors
+
+ - Aneesh Kandimalla
+ - Kevin Zhang
+ - Sharat Sakamuri
