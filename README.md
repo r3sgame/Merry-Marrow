@@ -21,3 +21,8 @@ Enjoy!
 Sample inputs (Taken from the dataset):
 {23.34, 4, 36.71, 15.41, 4.979, 5.16, 13, 14, 54, 365} - The patient passed away
 {55.55, 9.5, 36.71, 9.91, 4.979, 5.16, 18, 20, 100000, 365} - The patient survived
+
+## Contributors
+ - Aneesh Kandimalla
+ - Kevin Zhang
+ - Sharat Sakamuri
