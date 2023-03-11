@@ -5,7 +5,7 @@ A command-line tool to predict the survival rate of youth bone marrow transplant
 Hi! Merry Marrow is a deep-learning project created for TJHSST's 2023 Bioinformatics Hackathon. The goal was to create an accurate method of predicting the likelihood of a child surviving a bone marrow transplant (based on numerical info relating to the donor/recipient). The model attained a recorded loss of less than 5, which is quite accurate on the scale of a large classification.
 
 ## Directions
-- Ensure that you have Python 3 installed, along with the necessary packages
+- Ensure that you have Python 3 installed, along with the necessary packages/dependencies (Tensorflow and Numpy)
 - Download the latest version of the repository.
 - Extract the download and run the app.py file (Make sure that the TF model is in the same directory and you are running the file in its shared directory).
 - Enter all of the requested parameters (MUST be numbers).
