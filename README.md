@@ -2,7 +2,7 @@
 A command-line tool to predict the survival rate of youth bone marrow transplants <3
 
 ## Overview
-Hi! Merry Marrow is a deep-learning project created for TJHSST's 2023 Bioinformatics Hackathon. The goal was to create an accurate method of predicting the likelihood of a child surviving a bone marrow transplant (based on numerical info relating to the donor/recipient). The model attained a recorded loss of less than 5, which is quite accurate on the scale of a large classification.
+Hi! Merry Marrow is a deep-learning project created for TJHSST's 2023 Bioinformatics Hackathon. The goal was to create an accurate method of predicting the likelihood of a child surviving a bone marrow transplant (based on numerical info relating to the donor/recipient). The model attained a recorded loss of less than 1, which is quite accurate on the scale of a large classification.
 
 Check out the Colab for development code (NOT the CLI/final product) https://colab.research.google.com/drive/1iFsmLb36hkpS4gWy0fQvYC8Q0v5NxgCF?usp=sharing
 
